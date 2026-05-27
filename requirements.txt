@@ -1,0 +1,6 @@
+tinker-cookbook
+numpy
+matplotlib
+seaborn
+tqdm
+asyncio
