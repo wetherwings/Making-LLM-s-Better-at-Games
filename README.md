@@ -1,6 +1,4 @@
 # Localminimaclub-1: Making LLMs Better at Games
-**Team:** Leonardo Martins, Jelle Hendriks, Athila Koli
-
 
 ## 1. Capability
 
