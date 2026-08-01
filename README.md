@@ -1,4 +1,4 @@
-# Localminimaclub-1: Making LLMs Better at Games
+# Making LLMs Better at Games
 
 ## 1. Capability
 
